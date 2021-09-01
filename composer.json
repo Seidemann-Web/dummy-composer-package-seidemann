@@ -1,0 +1,13 @@
+{
+    "name": "seidemann/dummy-package",
+    "description": "Dummy package to reserve seidemann namespace.",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Seidemann Web",
+            "email": "info@seidemann-web.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
